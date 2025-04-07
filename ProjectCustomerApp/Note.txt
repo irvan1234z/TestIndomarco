@@ -1,0 +1,2 @@
+untuk menjalkan dapat menggunakan : dotnet run --project ProjectCustomer.API
+untuk pengetesan saya menggunakan swagger : http://localhost:5246/swagger/index.html

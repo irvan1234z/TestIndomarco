@@ -1,0 +1,14 @@
+C:\Test Indomarco\ConsolePalindromeApp\bin\Debug\net8.0\ConsolePalindromeApp.exe
+C:\Test Indomarco\ConsolePalindromeApp\bin\Debug\net8.0\ConsolePalindromeApp.deps.json
+C:\Test Indomarco\ConsolePalindromeApp\bin\Debug\net8.0\ConsolePalindromeApp.runtimeconfig.json
+C:\Test Indomarco\ConsolePalindromeApp\bin\Debug\net8.0\ConsolePalindromeApp.dll
+C:\Test Indomarco\ConsolePalindromeApp\bin\Debug\net8.0\ConsolePalindromeApp.pdb
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\ConsolePalindromeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\ConsolePalindromeApp.AssemblyInfoInputs.cache
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\ConsolePalindromeApp.AssemblyInfo.cs
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\ConsolePalindromeApp.csproj.CoreCompileInputs.cache
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\ConsolePalindromeApp.dll
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\refint\ConsolePalindromeApp.dll
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\ConsolePalindromeApp.pdb
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\ConsolePalindromeApp.genruntimeconfig.cache
+C:\Test Indomarco\ConsolePalindromeApp\obj\Debug\net8.0\ref\ConsolePalindromeApp.dll

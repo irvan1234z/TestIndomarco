@@ -1,0 +1,17 @@
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\bin\Debug\net8.0\ProjectCustomer.Infrastructure.deps.json
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\bin\Debug\net8.0\ProjectCustomer.Infrastructure.runtimeconfig.json
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\bin\Debug\net8.0\ProjectCustomer.Infrastructure.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\bin\Debug\net8.0\ProjectCustomer.Infrastructure.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\bin\Debug\net8.0\ProjectCustomer.Domain.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\bin\Debug\net8.0\ProjectCustomer.Domain.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectCustomer.Infrastructure.csproj.AssemblyReference.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectCustomer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectCustomer.Infrastructure.AssemblyInfoInputs.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectCustomer.Infrastructure.AssemblyInfo.cs
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectCustomer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectC.FB6C2CAD.Up2Date
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectCustomer.Infrastructure.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\refint\ProjectCustomer.Infrastructure.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectCustomer.Infrastructure.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ProjectCustomer.Infrastructure.genruntimeconfig.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Infrastructure\obj\Debug\net8.0\ref\ProjectCustomer.Infrastructure.dll

@@ -1,0 +1,17 @@
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\bin\Debug\net8.0\ProjectCustomer.Application.deps.json
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\bin\Debug\net8.0\ProjectCustomer.Application.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\bin\Debug\net8.0\ProjectCustomer.Application.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\bin\Debug\net8.0\ProjectCustomer.Domain.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\bin\Debug\net8.0\ProjectCustomer.Infrastructure.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\bin\Debug\net8.0\ProjectCustomer.Domain.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\bin\Debug\net8.0\ProjectCustomer.Infrastructure.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ProjectCustomer.Application.csproj.AssemblyReference.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ProjectCustomer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ProjectCustomer.Application.AssemblyInfoInputs.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ProjectCustomer.Application.AssemblyInfo.cs
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ProjectCustomer.Application.csproj.CoreCompileInputs.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ProjectC.6D4ECF20.Up2Date
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ProjectCustomer.Application.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\refint\ProjectCustomer.Application.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ProjectCustomer.Application.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Application\obj\Debug\net8.0\ref\ProjectCustomer.Application.dll

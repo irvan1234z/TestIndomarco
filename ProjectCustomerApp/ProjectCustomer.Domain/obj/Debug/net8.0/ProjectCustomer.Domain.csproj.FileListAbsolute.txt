@@ -1,0 +1,11 @@
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\bin\Debug\net8.0\ProjectCustomer.Domain.deps.json
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\bin\Debug\net8.0\ProjectCustomer.Domain.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\bin\Debug\net8.0\ProjectCustomer.Domain.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\obj\Debug\net8.0\ProjectCustomer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\obj\Debug\net8.0\ProjectCustomer.Domain.AssemblyInfoInputs.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\obj\Debug\net8.0\ProjectCustomer.Domain.AssemblyInfo.cs
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\obj\Debug\net8.0\ProjectCustomer.Domain.csproj.CoreCompileInputs.cache
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\obj\Debug\net8.0\ProjectCustomer.Domain.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\obj\Debug\net8.0\refint\ProjectCustomer.Domain.dll
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\obj\Debug\net8.0\ProjectCustomer.Domain.pdb
+C:\Test Indomarco\ProjectCustomerApp\ProjectCustomer.Domain\obj\Debug\net8.0\ref\ProjectCustomer.Domain.dll
